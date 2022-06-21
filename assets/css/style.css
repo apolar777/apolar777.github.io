@@ -103,7 +103,7 @@ body.page-template-page-fullsingle-me {
       rgba(0, 0, 0, 0) 0%,
       rgba(0, 0, 0, 1) 100%
     ),
-    url('../../images/hur_o.jpg');
+    url('../../images/113F8727-1FBF-48E4-A3A1-27FCA64AFBFD_1_105_c.jpeg');
 
   background-position: center center;
   background-size: cover;
@@ -113,6 +113,7 @@ body.page-template-page-fullsingle-me {
 body.page-template-page-fullsingle-me h1 {
   font-weight: 600;
   font-size: 3rem;
+  color:rgb(0, 77, 128)
 }
 
 .fs-me {
@@ -251,5 +252,8 @@ body.page-template-page-fullsingle-me h1 {
 .network ul li a:hover .svg-icon path {
   fill: var(--secondary-color);
   -webkit-transition: 0.1s;
-  transition: 0.1s;
+  transition: 0.1s}
+  
+  
+  p{color:rgb(60, 0, 255);
 }
